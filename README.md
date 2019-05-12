@@ -1,2 +1,3 @@
 # expected
-An implementation of `expected&lt;T, E...>`, extracted from the `variant2` repository
+
+An implementation of `expected<T, E...>`, extracted from the `variant2` repository
